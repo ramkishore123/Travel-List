@@ -32,7 +32,7 @@ It’s the perfect lightweight packing assistant for every traveler!
 ## ⚙️ Installation & Setup
 
 Follow these steps to set up and run the project locally 👇
-
+```
 # 1️⃣ Clone the repository
 git clone https://github.com/yourusername/travel-list.git
 
@@ -44,9 +44,10 @@ npm install
 
 # 4️⃣ Start the development server
 npm start
+```
 ---
 ##📂 Folder Structure :
-# travel-list/
+``` travel-list/
 ├── src/
 │   ├── App.js
 │   ├── components/
@@ -58,24 +59,26 @@ npm start
 │   └── index.js
 ├── package.json
 └── README.md
+```
 
 ## 🖼️ Preview: 
 # <img width="1920" height="1080" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/b1d88e47-9dbc-4aca-a930-e4f57bfb2cd3" />
 #<img width="1920" height="1080" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/28a21386-41bd-4b3b-a268-206a857f2095" />
 
 ##💡 Future Improvements
-#☁️ Cloud sync with user authentication
 
-#📱 Progressive Web App (PWA) support
+-☁️ Cloud sync with user authentication
 
-#🧠 Smart packing recommendations based on trip duration and destination
+-📱 Progressive Web App (PWA) support
 
-#🎨 Improved mobile layout and animations
+-🧠 Smart packing recommendations based on trip duration and destination
+
+-🎨 Improved mobile layout and animations
 
 ## 🙌 Acknowledgements
 
-# [React Document]((https://react.dev/))
+- [React Document](https://react.dev/)
 
-# [MDN Web Docs](https://developer.mozilla.org/)
+- [MDN Web Docs](https://developer.mozilla.org/)
 
-#Inspiration from Jonas Schmedtmann’s “Travel List” challenge.
+- Inspiration from Jonas Schmedtmann’s “Travel List” challenge.
